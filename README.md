@@ -10,7 +10,7 @@ Black Hole Time Bank is a Python-powered blockchain project that reimagines fina
 The project draws from my high school physics thesis on black hole time dilation and fuses it with foundational programming concepts I’ve been learning as a first-year computer engineering student. 
 Inspired by the concept of time dilation near black holes, this project imagines a sci-fi-style bank where users deposit and withdraw "time credits" affected by gravitational fields. It’s a beginner-friendly project designed to explore the features stated below with simple descriptions:
 
-
+```
 | 🧮 Physics Engine| Calculates relativistic time gain using Schwarzschild metric |
 | ⛓️ Mini Blockchain System| Secure, mined transactions with proof-of-work |
 | 🧾 Transaction Logs| Deposits & withdrawals saved via persistent CSV handling |
@@ -18,7 +18,7 @@ Inspired by the concept of time dilation near black holes, this project imagines
 | 🛡️ Edge Case Protection| Error handling for invalid input, overdraw, or corrupted data |
 | ⛏️ Mining Difficulty| Adjustable difficulty to simulate work-intensive block creation |
 | ✅ Blockchain Validation| Re-verifies chain on each transaction for data integrity |
-
+```
 
 While this isn’t meant to be a real banking system, it’s a sandbox for learning how distributed systems and physics-inspired logic can interact.
 
@@ -54,13 +54,14 @@ While this isn’t meant to be a real banking system, it’s a sandbox for learn
 
 
 ## 🧠 Learning Outcomes
+```
 This project demonstrates my skills in:
 ✅ Scientific Programming: translating equations into robust code
 ✅ Custom Blockchain Development: mining, hashing, validation
 ✅ Full-Stack in Python: from logic to GUI
 ✅ Software Engineering Principles: modularity, persistence, edge-case design
 ✅ Creativity: blending theory with tech into a narrative product
-
+```
 
 
 
