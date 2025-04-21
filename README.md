@@ -1,9 +1,9 @@
-🕰️🌌 Black Hole Time Bank🌌🕰️
+## 🕰️🌌 Black Hole Time Bank🌌🕰️
 
 A Blockchain Simulation of Time-Dilated Finance
 (built with care and caffeine)
 
-Summary
+## Summary
 
 Black Hole Time Bank is a Python-powered blockchain project that reimagines finance through the lens of general relativity, simply a relativistic banking simulation. Built from scratch, this simulation features a banking system where transactions experience artificial time dilation — a nod to the physics behind black holes. Modern tech industry is mostly dominated by innovation at the intersection of disciplines, so I wanted to intersect some disciplines and have fun.
 
@@ -40,19 +40,20 @@ While this isn’t meant to be a real banking system, it’s a sandbox for learn
 
 
 
-📁 Project Structure
+## 📁 Project Structure
 
-black-hole-time-bank/
+```black-hole-time-bank/
 ├── blockchain.py
 ├── time_dilation.py
 ├── database.py
 ├── blockchain_ui.py
 ├── main.py
-├── README.md (you are here:])
+├── README.md  ← you are here :]
 └── LICENSE
+ ``` 
 
 
-🧠 Learning Outcomes
+## 🧠 Learning Outcomes
 This project demonstrates my skills in:
 ✅ Scientific Programming: translating equations into robust code
 ✅ Custom Blockchain Development: mining, hashing, validation
@@ -64,7 +65,7 @@ This project demonstrates my skills in:
 
 
 
-🙏 Acknowledgements
+## 🙏 Acknowledgements
 
 This project was inspired by my high school graduation thesis on time dilation near black holes and I’d like to extend a special thanks to my high school seatmates Damla Bengü Mercangöz and Eda Sayar, who provided me moral support throughout the process of my thesis on time dilation.
 
@@ -77,5 +78,5 @@ Please give the repo a 🌟 if you liked it or if it expanded your vision ^_^
 
 
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License.
